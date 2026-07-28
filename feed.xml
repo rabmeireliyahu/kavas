@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>הרב אבנר קוואס</title>
+    <description>שיעורי תורה - הרב אבנר קוואס - אוצר התורה</description>
+    <link>https://rabmeireliyahu.github.io/kavas</link>
+    <language>he</language>
+    <itunes:author>הרב אבנר קוואס</itunes:author>
+    <itunes:owner>
+      <itunes:name>הרב אבנר קוואס</itunes:name>
+      <itunes:email>rabmeireliyahu@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://rabmeireliyahu.github.io/kavas/portada.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>הרב אבנר קוואס - הדרכה למציאת זיווג - חלק א'</title>
+      <description>הרב אבנר קוואס - הדרכה למציאת זיווג - חלק א'</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%93%D7%A8%D7%9B%D7%94%20%D7%9C%D7%9E%D7%A6%D7%99%D7%90%D7%AA%20%D7%96%D7%99%D7%95%D7%95%D7%92%20-%20%D7%97%D7%9C%D7%A7%20%D7%90%27.mp3" length="75890349" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - הדרכה למציאת זיווג - חלק א'.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:07:53 -0000</pubDate>
+      <itunes:duration>01:19:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - ביקורות ומריבות</title>
+      <description>הרב אבנר קוואס - ביקורות ומריבות</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%91%D7%99%D7%A7%D7%95%D7%A8%D7%95%D7%AA%20%D7%95%D7%9E%D7%A8%D7%99%D7%91%D7%95%D7%AA.mp3" length="85875885" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - ביקורות ומריבות.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:08:55 -0000</pubDate>
+      <itunes:duration>01:29:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - גיל ההתבגרות</title>
+      <description>הרב אבנר קוואס - גיל ההתבגרות</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%92%D7%99%D7%9C%20%D7%94%D7%94%D7%AA%D7%91%D7%92%D7%A8%D7%95%D7%AA.mp3" length="81505965" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - גיל ההתבגרות.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:10:14 -0000</pubDate>
+      <itunes:duration>01:24:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - הדרכה למציאת זיווג חלק ב</title>
+      <description>הרב אבנר קוואס - הדרכה למציאת זיווג חלק ב</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%93%D7%A8%D7%9B%D7%94%20%D7%9C%D7%9E%D7%A6%D7%99%D7%90%D7%AA%20%D7%96%D7%99%D7%95%D7%95%D7%92%20%D7%97%D7%9C%D7%A7%20%D7%91.mp3" length="81683578" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - הדרכה למציאת זיווג חלק ב.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:11:16 -0000</pubDate>
+      <itunes:duration>01:25:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - תקשורת זוגית</title>
+      <description>הרב אבנר קוואס - תקשורת זוגית</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%AA%D7%A7%D7%A9%D7%95%D7%A8%D7%AA%20%D7%96%D7%95%D7%92%D7%99%D7%AA.mp3" length="15502125" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - תקשורת זוגית.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:14:35 -0000</pubDate>
+      <itunes:duration>00:16:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - תמונות מחיי הנישואין</title>
+      <description>הרב אבנר קוואס - תמונות מחיי הנישואין</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%AA%D7%9E%D7%95%D7%A0%D7%95%D7%AA%20%D7%9E%D7%97%D7%99%D7%99%20%D7%94%D7%A0%D7%99%D7%A9%D7%95%D7%90%D7%99%D7%9F.mp3" length="90394029" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - תמונות מחיי הנישואין.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:15:20 -0000</pubDate>
+      <itunes:duration>01:34:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס   הדרכה למציאת זיווג  חלק ג</title>
+      <description>הרב אבנר קוואס   הדרכה למציאת זיווג  חלק ג</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20%20%20%D7%94%D7%93%D7%A8%D7%9B%D7%94%20%D7%9C%D7%9E%D7%A6%D7%99%D7%90%D7%AA%20%D7%96%D7%99%D7%95%D7%95%D7%92%20%20%D7%97%D7%9C%D7%A7%20%D7%92.mp3" length="56676141" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס   הדרכה למציאת זיווג  חלק ג.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:17:03 -0000</pubDate>
+      <itunes:duration>00:59:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - בהרצאה מרתקת על סוד עין הרע</title>
+      <description>הרב אבנר קוואס - בהרצאה מרתקת על סוד עין הרע</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%91%D7%94%D7%A8%D7%A6%D7%90%D7%94%20%D7%9E%D7%A8%D7%AA%D7%A7%D7%AA%20%D7%A2%D7%9C%20%D7%A1%D7%95%D7%93%20%D7%A2%D7%99%D7%9F%20%D7%94%D7%A8%D7%A2.mp3" length="82434093" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - בהרצאה מרתקת על סוד עין הרע.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:18:12 -0000</pubDate>
+      <itunes:duration>01:25:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - חינוך ילדים בדור הזה</title>
+      <description>הרב אבנר קוואס - חינוך ילדים בדור הזה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%97%D7%99%D7%A0%D7%95%D7%9A%20%D7%99%D7%9C%D7%93%D7%99%D7%9D%20%D7%91%D7%93%D7%95%D7%A8%20%D7%94%D7%96%D7%94.mp3" length="14731437" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - חינוך ילדים בדור הזה.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:20:04 -0000</pubDate>
+      <itunes:duration>00:15:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - ציפיות ואכזבות בחיי הנישואין!</title>
+      <description>הרב אבנר קוואס - ציפיות ואכזבות בחיי הנישואין!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%A6%D7%99%D7%A4%D7%99%D7%95%D7%AA%20%D7%95%D7%90%D7%9B%D7%96%D7%91%D7%95%D7%AA%20%D7%91%D7%97%D7%99%D7%99%20%D7%94%D7%A0%D7%99%D7%A9%D7%95%D7%90%D7%99%D7%9F%21.mp3" length="15100077" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - ציפיות ואכזבות בחיי הנישואין!.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:20:25 -0000</pubDate>
+      <itunes:duration>00:15:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס   תכונות האישה חלק א</title>
+      <description>הרב אבנר קוואס   תכונות האישה חלק א</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20%20%20%D7%AA%D7%9B%D7%95%D7%A0%D7%95%D7%AA%20%D7%94%D7%90%D7%99%D7%A9%D7%94%20%D7%97%D7%9C%D7%A7%20%D7%90.mp3" length="70114989" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס   תכונות האישה חלק א.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:20:56 -0000</pubDate>
+      <itunes:duration>01:13:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס זיווג שני חלק א'</title>
+      <description>הרב אבנר קוואס זיווג שני חלק א'</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20%D7%96%D7%99%D7%95%D7%95%D7%92%20%D7%A9%D7%A0%D7%99%20%D7%97%D7%9C%D7%A7%20%D7%90%27.mp3" length="41488941" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס זיווג שני חלק א'.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:22:19 -0000</pubDate>
+      <itunes:duration>00:43:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - סוד הזוגיות הנכונה - איך אתם רואים את החיים？</title>
+      <description>הרב אבנר קוואס - סוד הזוגיות הנכונה - איך אתם רואים את החיים？</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%A1%D7%95%D7%93%20%D7%94%D7%96%D7%95%D7%92%D7%99%D7%95%D7%AA%20%D7%94%D7%A0%D7%9B%D7%95%D7%A0%D7%94%20-%20%D7%90%D7%99%D7%9A%20%D7%90%D7%AA%D7%9D%20%D7%A8%D7%95%D7%90%D7%99%D7%9D%20%D7%90%D7%AA%20%D7%94%D7%97%D7%99%D7%99%D7%9D%EF%BC%9F.mp3" length="18643629" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - סוד הזוגיות הנכונה - איך אתם רואים את החיים？.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:23:06 -0000</pubDate>
+      <itunes:duration>00:19:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - סוד אהבה</title>
+      <description>הרב אבנר קוואס - סוד אהבה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%A1%D7%95%D7%93%20%D7%90%D7%94%D7%91%D7%94.mp3" length="78919725" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - סוד אהבה.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:23:30 -0000</pubDate>
+      <itunes:duration>01:22:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - מי יהיה הסנדק？？？</title>
+      <description>הרב אבנר קוואס - מי יהיה הסנדק？？？</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%9E%D7%99%20%D7%99%D7%94%D7%99%D7%94%20%D7%94%D7%A1%D7%A0%D7%93%D7%A7%EF%BC%9F%EF%BC%9F%EF%BC%9F.mp3" length="9938349" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - מי יהיה הסנדק？？？.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:24:48 -0000</pubDate>
+      <itunes:duration>00:10:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - הדרכה למציאת זיווג - חוות דעת ההורים</title>
+      <description>הרב אבנר קוואס - הדרכה למציאת זיווג - חוות דעת ההורים</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%93%D7%A8%D7%9B%D7%94%20%D7%9C%D7%9E%D7%A6%D7%99%D7%90%D7%AA%20%D7%96%D7%99%D7%95%D7%95%D7%92%20-%20%D7%97%D7%95%D7%95%D7%AA%20%D7%93%D7%A2%D7%AA%20%D7%94%D7%94%D7%95%D7%A8%D7%99%D7%9D.mp3" length="33555117" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - הדרכה למציאת זיווג - חוות דעת ההורים.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:25:03 -0000</pubDate>
+      <itunes:duration>00:34:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס  -  טהרת המשפחה לא רק לדתיים</title>
+      <description>הרב אבנר קוואס  -  טהרת המשפחה לא רק לדתיים</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20%20-%20%20%D7%98%D7%94%D7%A8%D7%AA%20%D7%94%D7%9E%D7%A9%D7%A4%D7%97%D7%94%20%D7%9C%D7%90%20%D7%A8%D7%A7%20%D7%9C%D7%93%D7%AA%D7%99%D7%99%D7%9D.mp3" length="13329069" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס  -  טהרת המשפחה לא רק לדתיים.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:25:41 -0000</pubDate>
+      <itunes:duration>00:13:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - התמודדות עם חוצפה חלק ב</title>
+      <description>הרב אבנר קוואס - התמודדות עם חוצפה חלק ב</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%AA%D7%9E%D7%95%D7%93%D7%93%D7%95%D7%AA%20%D7%A2%D7%9D%20%D7%97%D7%95%D7%A6%D7%A4%D7%94%20%D7%97%D7%9C%D7%A7%20%D7%91.mp3" length="15332781" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - התמודדות עם חוצפה חלק ב.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:25:58 -0000</pubDate>
+      <itunes:duration>00:15:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - איך צריך להיות הקשר בין הבעל לאשה ב'חופשת' הקורונה!</title>
+      <description>הרב אבנר קוואס - איך צריך להיות הקשר בין הבעל לאשה ב'חופשת' הקורונה!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%90%D7%99%D7%9A%20%D7%A6%D7%A8%D7%99%D7%9A%20%D7%9C%D7%94%D7%99%D7%95%D7%AA%20%D7%94%D7%A7%D7%A9%D7%A8%20%D7%91%D7%99%D7%9F%20%D7%94%D7%91%D7%A2%D7%9C%20%D7%9C%D7%90%D7%A9%D7%94%20%D7%91%27%D7%97%D7%95%D7%A4%D7%A9%D7%AA%27%20%D7%94%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94%21.mp3" length="12953517" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - איך צריך להיות הקשר בין הבעל לאשה ב'חופשת' הקורונה!.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:26:29 -0000</pubDate>
+      <itunes:duration>00:13:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - התחלה טובה - פרק 1</title>
+      <description>הרב אבנר קוואס - התחלה טובה - פרק 1</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%AA%D7%97%D7%9C%D7%94%20%D7%98%D7%95%D7%91%D7%94%20-%20%D7%A4%D7%A8%D7%A7%201.mp3" length="14484909" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - התחלה טובה - פרק 1.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:26:43 -0000</pubDate>
+      <itunes:duration>00:15:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס זיווג שני חלק ב'</title>
+      <description>הרב אבנר קוואס זיווג שני חלק ב'</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20%D7%96%D7%99%D7%95%D7%95%D7%92%20%D7%A9%D7%A0%D7%99%20%D7%97%D7%9C%D7%A7%20%D7%91%27.mp3" length="21569325" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס זיווג שני חלק ב'.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:27:04 -0000</pubDate>
+      <itunes:duration>00:22:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - התמודדות עם חוצפה חלק א</title>
+      <description>הרב אבנר קוואס - התמודדות עם חוצפה חלק א</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%AA%D7%9E%D7%95%D7%93%D7%93%D7%95%D7%AA%20%D7%A2%D7%9D%20%D7%97%D7%95%D7%A6%D7%A4%D7%94%20%D7%97%D7%9C%D7%A7%20%D7%90.mp3" length="14533677" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - התמודדות עם חוצפה חלק א.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:27:29 -0000</pubDate>
+      <itunes:duration>00:15:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - הסדרה לצעירים וצעירות 1 - אהבה ראשונה</title>
+      <description>הרב אבנר קוואס - הסדרה לצעירים וצעירות 1 - אהבה ראשונה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%A1%D7%93%D7%A8%D7%94%20%D7%9C%D7%A6%D7%A2%D7%99%D7%A8%D7%99%D7%9D%20%D7%95%D7%A6%D7%A2%D7%99%D7%A8%D7%95%D7%AA%201%20-%20%D7%90%D7%94%D7%91%D7%94%20%D7%A8%D7%90%D7%A9%D7%95%D7%A0%D7%94.mp3" length="10938285" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - הסדרה לצעירים וצעירות 1 - אהבה ראשונה.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:27:50 -0000</pubDate>
+      <itunes:duration>00:11:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס    איך קוראים לתינוק</title>
+      <description>הרב אבנר קוואס    איך קוראים לתינוק</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20%20%20%20%D7%90%D7%99%D7%9A%20%D7%A7%D7%95%D7%A8%D7%90%D7%99%D7%9D%20%D7%9C%D7%AA%D7%99%D7%A0%D7%95%D7%A7.mp3" length="13746477" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס    איך קוראים לתינוק.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:28:03 -0000</pubDate>
+      <itunes:duration>00:14:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - הלב לא מחסן חלק א'</title>
+      <description>הרב אבנר קוואס - הלב לא מחסן חלק א'</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%9C%D7%91%20%D7%9C%D7%90%20%D7%9E%D7%97%D7%A1%D7%9F%20%D7%97%D7%9C%D7%A7%20%D7%90%27.mp3" length="12673581" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - הלב לא מחסן חלק א'.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:28:20 -0000</pubDate>
+      <itunes:duration>00:13:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - הענשה כיצד？ חלק ב'</title>
+      <description>הרב אבנר קוואס - הענשה כיצד？ חלק ב'</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%A2%D7%A0%D7%A9%D7%94%20%D7%9B%D7%99%D7%A6%D7%93%EF%BC%9F%20%D7%97%D7%9C%D7%A7%20%D7%91%27.mp3" length="40034349" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - הענשה כיצד？ חלק ב'.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:28:39 -0000</pubDate>
+      <itunes:duration>00:41:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - משמר הגבולות - פרק 1</title>
+      <description>הרב אבנר קוואס - משמר הגבולות - פרק 1</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%9E%D7%A9%D7%9E%D7%A8%20%D7%94%D7%92%D7%91%D7%95%D7%9C%D7%95%D7%AA%20-%20%D7%A4%D7%A8%D7%A7%201.mp3" length="12814509" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - משמר הגבולות - פרק 1.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:29:21 -0000</pubDate>
+      <itunes:duration>00:13:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - הסדרה לצעירים וצעירות 2 - אוהבת לא אוהבת!</title>
+      <description>הרב אבנר קוואס - הסדרה לצעירים וצעירות 2 - אוהבת לא אוהבת!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%A1%D7%93%D7%A8%D7%94%20%D7%9C%D7%A6%D7%A2%D7%99%D7%A8%D7%99%D7%9D%20%D7%95%D7%A6%D7%A2%D7%99%D7%A8%D7%95%D7%AA%202%20-%20%D7%90%D7%95%D7%94%D7%91%D7%AA%20%D7%9C%D7%90%20%D7%90%D7%95%D7%94%D7%91%D7%AA%21.mp3" length="15404205" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - הסדרה לצעירים וצעירות 2 - אוהבת לא אוהבת!.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:29:42 -0000</pubDate>
+      <itunes:duration>00:16:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - לדון לכף זכות!</title>
+      <description>הרב אבנר קוואס - לדון לכף זכות!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%9C%D7%93%D7%95%D7%9F%20%D7%9C%D7%9B%D7%A3%20%D7%96%D7%9B%D7%95%D7%AA%21.mp3" length="14672301" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - לדון לכף זכות!.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:30:02 -0000</pubDate>
+      <itunes:duration>00:15:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - הלב לא מחסן חלק ב'</title>
+      <description>הרב אבנר קוואס - הלב לא מחסן חלק ב'</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%9C%D7%91%20%D7%9C%D7%90%20%D7%9E%D7%97%D7%A1%D7%9F%20%D7%97%D7%9C%D7%A7%20%D7%91%27.mp3" length="15697965" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - הלב לא מחסן חלק ב'.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:30:22 -0000</pubDate>
+      <itunes:duration>00:16:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס   טהרת המשפחה   איכות של נשמה</title>
+      <description>הרב אבנר קוואס   טהרת המשפחה   איכות של נשמה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20%20%20%D7%98%D7%94%D7%A8%D7%AA%20%D7%94%D7%9E%D7%A9%D7%A4%D7%97%D7%94%20%20%20%D7%90%D7%99%D7%9B%D7%95%D7%AA%20%D7%A9%D7%9C%20%D7%A0%D7%A9%D7%9E%D7%94.mp3" length="13265325" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס   טהרת המשפחה   איכות של נשמה.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:30:41 -0000</pubDate>
+      <itunes:duration>00:13:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - התחלה טובה - פרק 2</title>
+      <description>הרב אבנר קוואס - התחלה טובה - פרק 2</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%AA%D7%97%D7%9C%D7%94%20%D7%98%D7%95%D7%91%D7%94%20-%20%D7%A4%D7%A8%D7%A7%202.mp3" length="14613549" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - התחלה טובה - פרק 2.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:31:01 -0000</pubDate>
+      <itunes:duration>00:15:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - הסדרה לצעירים וצעירות 3 - גבר לעניין</title>
+      <description>הרב אבנר קוואס - הסדרה לצעירים וצעירות 3 - גבר לעניין</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%A1%D7%93%D7%A8%D7%94%20%D7%9C%D7%A6%D7%A2%D7%99%D7%A8%D7%99%D7%9D%20%D7%95%D7%A6%D7%A2%D7%99%D7%A8%D7%95%D7%AA%203%20-%20%D7%92%D7%91%D7%A8%20%D7%9C%D7%A2%D7%A0%D7%99%D7%99%D7%9F.mp3" length="15050925" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - הסדרה לצעירים וצעירות 3 - גבר לעניין.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:31:21 -0000</pubDate>
+      <itunes:duration>00:15:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס   - גנבות של ילדים</title>
+      <description>הרב אבנר קוואס   - גנבות של ילדים</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20%20%20-%20%D7%92%D7%A0%D7%91%D7%95%D7%AA%20%D7%A9%D7%9C%20%D7%99%D7%9C%D7%93%D7%99%D7%9D.mp3" length="11569197" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס   - גנבות של ילדים.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:31:38 -0000</pubDate>
+      <itunes:duration>00:12:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - חלוקת תפקידים</title>
+      <description>הרב אבנר קוואס - חלוקת תפקידים</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%97%D7%9C%D7%95%D7%A7%D7%AA%20%D7%AA%D7%A4%D7%A7%D7%99%D7%93%D7%99%D7%9D.mp3" length="18164781" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - חלוקת תפקידים.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:31:53 -0000</pubDate>
+      <itunes:duration>00:18:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - משמר הגבולות - פרק 2</title>
+      <description>הרב אבנר קוואס - משמר הגבולות - פרק 2</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%9E%D7%A9%D7%9E%D7%A8%20%D7%94%D7%92%D7%91%D7%95%D7%9C%D7%95%D7%AA%20-%20%D7%A4%D7%A8%D7%A7%202.mp3" length="14288685" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - משמר הגבולות - פרק 2.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:32:15 -0000</pubDate>
+      <itunes:duration>00:14:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - התחלה טובה - פרק 3</title>
+      <description>הרב אבנר קוואס - התחלה טובה - פרק 3</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%AA%D7%97%D7%9C%D7%94%20%D7%98%D7%95%D7%91%D7%94%20-%20%D7%A4%D7%A8%D7%A7%203.mp3" length="14716845" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - התחלה טובה - פרק 3.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:32:40 -0000</pubDate>
+      <itunes:duration>00:15:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - מעוכבי שידוך</title>
+      <description>הרב אבנר קוואס - מעוכבי שידוך</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%9E%D7%A2%D7%95%D7%9B%D7%91%D7%99%20%D7%A9%D7%99%D7%93%D7%95%D7%9A.mp3" length="12962733" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - מעוכבי שידוך.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:33:00 -0000</pubDate>
+      <itunes:duration>00:13:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס   התחלה טובה   פרק 4</title>
+      <description>הרב אבנר קוואס   התחלה טובה   פרק 4</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20%20%20%D7%94%D7%AA%D7%97%D7%9C%D7%94%20%D7%98%D7%95%D7%91%D7%94%20%20%20%D7%A4%D7%A8%D7%A7%204.mp3" length="14566317" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס   התחלה טובה   פרק 4.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:33:16 -0000</pubDate>
+      <itunes:duration>00:15:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - מידת הענווה</title>
+      <description>הרב אבנר קוואס - מידת הענווה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%9E%D7%99%D7%93%D7%AA%20%D7%94%D7%A2%D7%A0%D7%95%D7%95%D7%94.mp3" length="12899757" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - מידת הענווה.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:33:37 -0000</pubDate>
+      <itunes:duration>00:13:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - משמר הגבולות - פרק 3</title>
+      <description>הרב אבנר קוואס - משמר הגבולות - פרק 3</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%9E%D7%A9%D7%9E%D7%A8%20%D7%94%D7%92%D7%91%D7%95%D7%9C%D7%95%D7%AA%20-%20%D7%A4%D7%A8%D7%A7%203.mp3" length="14528685" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - משמר הגבולות - פרק 3.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:33:56 -0000</pubDate>
+      <itunes:duration>00:15:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - תייר או מרגל</title>
+      <description>הרב אבנר קוואס - תייר או מרגל</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%AA%D7%99%D7%99%D7%A8%20%D7%90%D7%95%20%D7%9E%D7%A8%D7%92%D7%9C.mp3" length="35056941" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - תייר או מרגל.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:34:22 -0000</pubDate>
+      <itunes:duration>00:36:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס   התחלה טובה   פרק 5</title>
+      <description>הרב אבנר קוואס   התחלה טובה   פרק 5</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20%20%20%D7%94%D7%AA%D7%97%D7%9C%D7%94%20%D7%98%D7%95%D7%91%D7%94%20%20%20%D7%A4%D7%A8%D7%A7%205.mp3" length="14398509" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס   התחלה טובה   פרק 5.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:35:02 -0000</pubDate>
+      <itunes:duration>00:14:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - סבר פנים יפות</title>
+      <description>הרב אבנר קוואס - סבר פנים יפות</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%A1%D7%91%D7%A8%20%D7%A4%D7%A0%D7%99%D7%9D%20%D7%99%D7%A4%D7%95%D7%AA.mp3" length="14469549" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - סבר פנים יפות.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:35:24 -0000</pubDate>
+      <itunes:duration>00:15:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - צניעות אצל ילדים</title>
+      <description>הרב אבנר קוואס - צניעות אצל ילדים</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%A6%D7%A0%D7%99%D7%A2%D7%95%D7%AA%20%D7%90%D7%A6%D7%9C%20%D7%99%D7%9C%D7%93%D7%99%D7%9D.mp3" length="12674733" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - צניעות אצל ילדים.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:35:43 -0000</pubDate>
+      <itunes:duration>00:13:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - הסדרה לצעירים וצעירות 5 - חבל על הזמן</title>
+      <description>הרב אבנר קוואס - הסדרה לצעירים וצעירות 5 - חבל על הזמן</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%A1%D7%93%D7%A8%D7%94%20%D7%9C%D7%A6%D7%A2%D7%99%D7%A8%D7%99%D7%9D%20%D7%95%D7%A6%D7%A2%D7%99%D7%A8%D7%95%D7%AA%205%20-%20%D7%97%D7%91%D7%9C%20%D7%A2%D7%9C%20%D7%94%D7%96%D7%9E%D7%9F.mp3" length="13347117" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - הסדרה לצעירים וצעירות 5 - חבל על הזמן.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:35:58 -0000</pubDate>
+      <itunes:duration>00:13:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - משמר הגבולות - פרק 6</title>
+      <description>הרב אבנר קוואס - משמר הגבולות - פרק 6</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%9E%D7%A9%D7%9E%D7%A8%20%D7%94%D7%92%D7%91%D7%95%D7%9C%D7%95%D7%AA%20-%20%D7%A4%D7%A8%D7%A7%206.mp3" length="14253357" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - משמר הגבולות - פרק 6.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:36:12 -0000</pubDate>
+      <itunes:duration>00:14:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - משמר הגבולות - פרק 4</title>
+      <description>הרב אבנר קוואס - משמר הגבולות - פרק 4</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%9E%D7%A9%D7%9E%D7%A8%20%D7%94%D7%92%D7%91%D7%95%D7%9C%D7%95%D7%AA%20-%20%D7%A4%D7%A8%D7%A7%204.mp3" length="14590509" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - משמר הגבולות - פרק 4.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:36:35 -0000</pubDate>
+      <itunes:duration>00:15:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - גיל ההתבגרות ותופעת הנשירה - הרצאת חובה להורים!</title>
+      <description>הרב אבנר קוואס - גיל ההתבגרות ותופעת הנשירה - הרצאת חובה להורים!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%92%D7%99%D7%9C%20%D7%94%D7%94%D7%AA%D7%91%D7%92%D7%A8%D7%95%D7%AA%20%D7%95%D7%AA%D7%95%D7%A4%D7%A2%D7%AA%20%D7%94%D7%A0%D7%A9%D7%99%D7%A8%D7%94%20-%20%D7%94%D7%A8%D7%A6%D7%90%D7%AA%20%D7%97%D7%95%D7%91%D7%94%20%D7%9C%D7%94%D7%95%D7%A8%D7%99%D7%9D%21.mp3" length="15971373" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - גיל ההתבגרות ותופעת הנשירה - הרצאת חובה להורים!.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:36:59 -0000</pubDate>
+      <itunes:duration>00:16:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - רפואה ורופאים</title>
+      <description>הרב אבנר קוואס - רפואה ורופאים</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%A8%D7%A4%D7%95%D7%90%D7%94%20%D7%95%D7%A8%D7%95%D7%A4%D7%90%D7%99%D7%9D.mp3" length="13745325" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - רפואה ורופאים.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:37:15 -0000</pubDate>
+      <itunes:duration>00:14:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - אסטרולוגיה ומזל - המזל והתכלית</title>
+      <description>הרב אבנר קוואס - אסטרולוגיה ומזל - המזל והתכלית</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94%20%D7%95%D7%9E%D7%96%D7%9C%20-%20%D7%94%D7%9E%D7%96%D7%9C%20%D7%95%D7%94%D7%AA%D7%9B%D7%9C%D7%99%D7%AA.mp3" length="33473709" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - אסטרולוגיה ומזל - המזל והתכלית.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:37:36 -0000</pubDate>
+      <itunes:duration>00:34:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - צניעות איכות חיים חלק א mp4</title>
+      <description>הרב אבנר קוואס - צניעות איכות חיים חלק א mp4</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%A6%D7%A0%D7%99%D7%A2%D7%95%D7%AA%20%D7%90%D7%99%D7%9B%D7%95%D7%AA%20%D7%97%D7%99%D7%99%D7%9D%20%D7%97%D7%9C%D7%A7%20%D7%90%20mp4.mp3" length="10146861" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - צניעות איכות חיים חלק א mp4.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:38:10 -0000</pubDate>
+      <itunes:duration>00:10:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס   התחלה טובה   פרק 6</title>
+      <description>הרב אבנר קוואס   התחלה טובה   פרק 6</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20%20%20%D7%94%D7%AA%D7%97%D7%9C%D7%94%20%D7%98%D7%95%D7%91%D7%94%20%20%20%D7%A4%D7%A8%D7%A7%206.mp3" length="14425005" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס   התחלה טובה   פרק 6.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:38:24 -0000</pubDate>
+      <itunes:duration>00:15:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - משמר הגבולות - פרק 10</title>
+      <description>הרב אבנר קוואס - משמר הגבולות - פרק 10</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%9E%D7%A9%D7%9E%D7%A8%20%D7%94%D7%92%D7%91%D7%95%D7%9C%D7%95%D7%AA%20-%20%D7%A4%D7%A8%D7%A7%2010.mp3" length="13020717" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - משמר הגבולות - פרק 10.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:38:44 -0000</pubDate>
+      <itunes:duration>00:13:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - התחלה טובה - פרק 11</title>
+      <description>הרב אבנר קוואס - התחלה טובה - פרק 11</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%AA%D7%97%D7%9C%D7%94%20%D7%98%D7%95%D7%91%D7%94%20-%20%D7%A4%D7%A8%D7%A7%2011.mp3" length="12560301" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - התחלה טובה - פרק 11.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:39:05 -0000</pubDate>
+      <itunes:duration>00:13:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - הסדרה לצעירים וצעירות 6 - סוד ההצלחה</title>
+      <description>הרב אבנר קוואס - הסדרה לצעירים וצעירות 6 - סוד ההצלחה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%A1%D7%93%D7%A8%D7%94%20%D7%9C%D7%A6%D7%A2%D7%99%D7%A8%D7%99%D7%9D%20%D7%95%D7%A6%D7%A2%D7%99%D7%A8%D7%95%D7%AA%206%20-%20%D7%A1%D7%95%D7%93%20%D7%94%D7%94%D7%A6%D7%9C%D7%97%D7%94.mp3" length="10844973" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - הסדרה לצעירים וצעירות 6 - סוד ההצלחה.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:39:22 -0000</pubDate>
+      <itunes:duration>00:11:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - משמר הגבולות - פרק 11</title>
+      <description>הרב אבנר קוואס - משמר הגבולות - פרק 11</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%9E%D7%A9%D7%9E%D7%A8%20%D7%94%D7%92%D7%91%D7%95%D7%9C%D7%95%D7%AA%20-%20%D7%A4%D7%A8%D7%A7%2011.mp3" length="11571117" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - משמר הגבולות - פרק 11.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:39:35 -0000</pubDate>
+      <itunes:duration>00:12:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>תכנית ＂ביתנו החדש＂ 18⧸08⧸21 קול ברמה - הרב אבנר קוואס</title>
+      <description>תכנית ＂ביתנו החדש＂ 18⧸08⧸21 קול ברמה - הרב אבנר קוואס</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%AA%D7%9B%D7%A0%D7%99%D7%AA%20%EF%BC%82%D7%91%D7%99%D7%AA%D7%A0%D7%95%20%D7%94%D7%97%D7%93%D7%A9%EF%BC%82%2018%E2%A7%B808%E2%A7%B821%20%D7%A7%D7%95%D7%9C%20%D7%91%D7%A8%D7%9E%D7%94%20-%20%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1.mp3" length="77569965" type="audio/mpeg"/>
+      <guid isPermaLink="false">תכנית ＂ביתנו החדש＂ 18⧸08⧸21 קול ברמה - הרב אבנר קוואס.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:40:07 -0000</pubDate>
+      <itunes:duration>01:20:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - משמר הגבולות - פרק 8</title>
+      <description>הרב אבנר קוואס - משמר הגבולות - פרק 8</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%9E%D7%A9%D7%9E%D7%A8%20%D7%94%D7%92%D7%91%D7%95%D7%9C%D7%95%D7%AA%20-%20%D7%A4%D7%A8%D7%A7%208.mp3" length="14256429" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - משמר הגבולות - פרק 8.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:41:12 -0000</pubDate>
+      <itunes:duration>00:14:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - משמר הגבולות - פרק 7</title>
+      <description>הרב אבנר קוואס - משמר הגבולות - פרק 7</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%9E%D7%A9%D7%9E%D7%A8%20%D7%94%D7%92%D7%91%D7%95%D7%9C%D7%95%D7%AA%20-%20%D7%A4%D7%A8%D7%A7%207.mp3" length="14736045" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - משמר הגבולות - פרק 7.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:41:35 -0000</pubDate>
+      <itunes:duration>00:15:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>אחרית הימים 1</title>
+      <description>אחרית הימים 1</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%90%D7%97%D7%A8%D7%99%D7%AA%20%D7%94%D7%99%D7%9E%D7%99%D7%9D%201.mp3" length="11694381" type="audio/mpeg"/>
+      <guid isPermaLink="false">אחרית הימים 1.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:41:59 -0000</pubDate>
+      <itunes:duration>00:12:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - משמר הגבולות - פרק 9</title>
+      <description>הרב אבנר קוואס - משמר הגבולות - פרק 9</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%9E%D7%A9%D7%9E%D7%A8%20%D7%94%D7%92%D7%91%D7%95%D7%9C%D7%95%D7%AA%20-%20%D7%A4%D7%A8%D7%A7%209.mp3" length="12755757" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - משמר הגבולות - פרק 9.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:42:15 -0000</pubDate>
+      <itunes:duration>00:13:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - משמר הגבולות - פרק 12</title>
+      <description>הרב אבנר קוואס - משמר הגבולות - פרק 12</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%9E%D7%A9%D7%9E%D7%A8%20%D7%94%D7%92%D7%91%D7%95%D7%9C%D7%95%D7%AA%20-%20%D7%A4%D7%A8%D7%A7%2012.mp3" length="9825837" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - משמר הגבולות - פרק 12.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:42:38 -0000</pubDate>
+      <itunes:duration>00:10:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>תכנית ＂ביתנו החדש＂ 11⧸08⧸21 קול ברמה - הרב אבנר קוואס</title>
+      <description>תכנית ＂ביתנו החדש＂ 11⧸08⧸21 קול ברמה - הרב אבנר קוואס</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%AA%D7%9B%D7%A0%D7%99%D7%AA%20%EF%BC%82%D7%91%D7%99%D7%AA%D7%A0%D7%95%20%D7%94%D7%97%D7%93%D7%A9%EF%BC%82%2011%E2%A7%B808%E2%A7%B821%20%D7%A7%D7%95%D7%9C%20%D7%91%D7%A8%D7%9E%D7%94%20-%20%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1.mp3" length="77242413" type="audio/mpeg"/>
+      <guid isPermaLink="false">תכנית ＂ביתנו החדש＂ 11⧸08⧸21 קול ברמה - הרב אבנר קוואס.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:43:09 -0000</pubDate>
+      <itunes:duration>01:20:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - אור שבחושך</title>
+      <description>הרב אבנר קוואס - אור שבחושך</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%90%D7%95%D7%A8%20%D7%A9%D7%91%D7%97%D7%95%D7%A9%D7%9A.mp3" length="17134125" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - אור שבחושך.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:44:15 -0000</pubDate>
+      <itunes:duration>00:17:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - חג הפורים</title>
+      <description>הרב אבנר קוואס - חג הפורים</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%97%D7%92%20%D7%94%D7%A4%D7%95%D7%A8%D7%99%D7%9D.mp3" length="14896557" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - חג הפורים.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:44:39 -0000</pubDate>
+      <itunes:duration>00:15:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - התחלה טובה - פרק 10</title>
+      <description>הרב אבנר קוואס - התחלה טובה - פרק 10</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%AA%D7%97%D7%9C%D7%94%20%D7%98%D7%95%D7%91%D7%94%20-%20%D7%A4%D7%A8%D7%A7%2010.mp3" length="14170797" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - התחלה טובה - פרק 10.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:45:01 -0000</pubDate>
+      <itunes:duration>00:14:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - התחלה טובה - פרק 12</title>
+      <description>הרב אבנר קוואס - התחלה טובה - פרק 12</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%AA%D7%97%D7%9C%D7%94%20%D7%98%D7%95%D7%91%D7%94%20-%20%D7%A4%D7%A8%D7%A7%2012.mp3" length="12753069" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - התחלה טובה - פרק 12.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:45:21 -0000</pubDate>
+      <itunes:duration>00:13:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - השפעת הסביבה</title>
+      <description>הרב אבנר קוואס - השפעת הסביבה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%A9%D7%A4%D7%A2%D7%AA%20%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94.mp3" length="13907373" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - השפעת הסביבה.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:45:38 -0000</pubDate>
+      <itunes:duration>00:14:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - התחלה טובה - פרק 8</title>
+      <description>הרב אבנר קוואס - התחלה טובה - פרק 8</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%AA%D7%97%D7%9C%D7%94%20%D7%98%D7%95%D7%91%D7%94%20-%20%D7%A4%D7%A8%D7%A7%208.mp3" length="14751789" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - התחלה טובה - פרק 8.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:45:55 -0000</pubDate>
+      <itunes:duration>00:15:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - התחלה טובה - פרק 9</title>
+      <description>הרב אבנר קוואס - התחלה טובה - פרק 9</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%AA%D7%97%D7%9C%D7%94%20%D7%98%D7%95%D7%91%D7%94%20-%20%D7%A4%D7%A8%D7%A7%209.mp3" length="14454573" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - התחלה טובה - פרק 9.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:46:16 -0000</pubDate>
+      <itunes:duration>00:15:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - הסדרה לצעירים וצעירות 11 - לנצל את הזמן</title>
+      <description>הרב אבנר קוואס - הסדרה לצעירים וצעירות 11 - לנצל את הזמן</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%A1%D7%93%D7%A8%D7%94%20%D7%9C%D7%A6%D7%A2%D7%99%D7%A8%D7%99%D7%9D%20%D7%95%D7%A6%D7%A2%D7%99%D7%A8%D7%95%D7%AA%2011%20-%20%D7%9C%D7%A0%D7%A6%D7%9C%20%D7%90%D7%AA%20%D7%94%D7%96%D7%9E%D7%9F.mp3" length="14982957" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - הסדרה לצעירים וצעירות 11 - לנצל את הזמן.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:46:35 -0000</pubDate>
+      <itunes:duration>00:15:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - המוטו של היהדות - שמחה!</title>
+      <description>הרב אבנר קוואס - המוטו של היהדות - שמחה!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%9E%D7%95%D7%98%D7%95%20%D7%A9%D7%9C%20%D7%94%D7%99%D7%94%D7%93%D7%95%D7%AA%20-%20%D7%A9%D7%9E%D7%97%D7%94%21.mp3" length="14626605" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - המוטו של היהדות - שמחה!.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:46:50 -0000</pubDate>
+      <itunes:duration>00:15:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - הסדרה לצעירים וצעירות 10 - חבל על הזמן</title>
+      <description>הרב אבנר קוואס - הסדרה לצעירים וצעירות 10 - חבל על הזמן</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%A1%D7%93%D7%A8%D7%94%20%D7%9C%D7%A6%D7%A2%D7%99%D7%A8%D7%99%D7%9D%20%D7%95%D7%A6%D7%A2%D7%99%D7%A8%D7%95%D7%AA%2010%20-%20%D7%97%D7%91%D7%9C%20%D7%A2%D7%9C%20%D7%94%D7%96%D7%9E%D7%9F.mp3" length="14501421" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - הסדרה לצעירים וצעירות 10 - חבל על הזמן.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:47:11 -0000</pubDate>
+      <itunes:duration>00:15:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - התחלה טובה - פרק 7</title>
+      <description>הרב אבנר קוואס - התחלה טובה - פרק 7</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%AA%D7%97%D7%9C%D7%94%20%D7%98%D7%95%D7%91%D7%94%20-%20%D7%A4%D7%A8%D7%A7%207.mp3" length="14765229" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - התחלה טובה - פרק 7.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:47:26 -0000</pubDate>
+      <itunes:duration>00:15:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - הסדרה לצעירים וצעירות 9 - כיון נכון</title>
+      <description>הרב אבנר קוואס - הסדרה לצעירים וצעירות 9 - כיון נכון</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%A1%D7%93%D7%A8%D7%94%20%D7%9C%D7%A6%D7%A2%D7%99%D7%A8%D7%99%D7%9D%20%D7%95%D7%A6%D7%A2%D7%99%D7%A8%D7%95%D7%AA%209%20-%20%D7%9B%D7%99%D7%95%D7%9F%20%D7%A0%D7%9B%D7%95%D7%9F.mp3" length="13000365" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - הסדרה לצעירים וצעירות 9 - כיון נכון.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:47:46 -0000</pubDate>
+      <itunes:duration>00:13:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - הדרכה למציאת זיווג</title>
+      <description>הרב אבנר קוואס - הדרכה למציאת זיווג</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%93%D7%A8%D7%9B%D7%94%20%D7%9C%D7%9E%D7%A6%D7%99%D7%90%D7%AA%20%D7%96%D7%99%D7%95%D7%95%D7%92.mp3" length="20834349" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - הדרכה למציאת זיווג.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:48:01 -0000</pubDate>
+      <itunes:duration>00:21:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - שיווק עצמי</title>
+      <description>הרב אבנר קוואס - שיווק עצמי</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%A9%D7%99%D7%95%D7%95%D7%A7%20%D7%A2%D7%A6%D7%9E%D7%99.mp3" length="24034605" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - שיווק עצמי.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:48:25 -0000</pubDate>
+      <itunes:duration>00:25:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - עולם הבא מהו？</title>
+      <description>הרב אבנר קוואס - עולם הבא מהו？</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%A2%D7%95%D7%9C%D7%9D%20%D7%94%D7%91%D7%90%20%D7%9E%D7%94%D7%95%EF%BC%9F.mp3" length="11794605" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - עולם הבא מהו？.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:48:53 -0000</pubDate>
+      <itunes:duration>00:12:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - והגדת לבנך א'</title>
+      <description>הרב אבנר קוואס - והגדת לבנך א'</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%95%D7%94%D7%92%D7%93%D7%AA%20%D7%9C%D7%91%D7%A0%D7%9A%20%D7%90%27.mp3" length="43492139" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - והגדת לבנך א'.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:49:13 -0000</pubDate>
+      <itunes:duration>00:45:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - כל ישראל ערבים זה לזה</title>
+      <description>הרב אבנר קוואס - כל ישראל ערבים זה לזה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%9B%D7%9C%20%D7%99%D7%A9%D7%A8%D7%90%D7%9C%20%D7%A2%D7%A8%D7%91%D7%99%D7%9D%20%D7%96%D7%94%20%D7%9C%D7%96%D7%94.mp3" length="10275501" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - כל ישראל ערבים זה לזה.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:49:49 -0000</pubDate>
+      <itunes:duration>00:10:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - שירת דוד המלך</title>
+      <description>הרב אבנר קוואס - שירת דוד המלך</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%A9%D7%99%D7%A8%D7%AA%20%D7%93%D7%95%D7%93%20%D7%94%D7%9E%D7%9C%D7%9A.mp3" length="22754733" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - שירת דוד המלך.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:50:02 -0000</pubDate>
+      <itunes:duration>00:23:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס   מתן תורה חלק א</title>
+      <description>הרב אבנר קוואס   מתן תורה חלק א</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20%20%20%D7%9E%D7%AA%D7%9F%20%D7%AA%D7%95%D7%A8%D7%94%20%D7%97%D7%9C%D7%A7%20%D7%90.mp3" length="22353069" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס   מתן תורה חלק א.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:50:23 -0000</pubDate>
+      <itunes:duration>00:23:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>דור מלא יסורים 1</title>
+      <description>דור מלא יסורים 1</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%93%D7%95%D7%A8%20%D7%9E%D7%9C%D7%90%20%D7%99%D7%A1%D7%95%D7%A8%D7%99%D7%9D%201.mp3" length="10811949" type="audio/mpeg"/>
+      <guid isPermaLink="false">דור מלא יסורים 1.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:50:48 -0000</pubDate>
+      <itunes:duration>00:11:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - אוכל כשר</title>
+      <description>הרב אבנר קוואס - אוכל כשר</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%90%D7%95%D7%9B%D7%9C%20%D7%9B%D7%A9%D7%A8.mp3" length="10369965" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - אוכל כשר.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:51:03 -0000</pubDate>
+      <itunes:duration>00:10:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - יעקב רחל והצניעות</title>
+      <description>הרב אבנר קוואס - יעקב רחל והצניעות</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%99%D7%A2%D7%A7%D7%91%20%D7%A8%D7%97%D7%9C%20%D7%95%D7%94%D7%A6%D7%A0%D7%99%D7%A2%D7%95%D7%AA.mp3" length="29170605" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - יעקב רחל והצניעות.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:51:17 -0000</pubDate>
+      <itunes:duration>00:30:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - כח הדיבור</title>
+      <description>הרב אבנר קוואס - כח הדיבור</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%9B%D7%97%20%D7%94%D7%93%D7%99%D7%91%D7%95%D7%A8.mp3" length="9715245" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - כח הדיבור.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:51:47 -0000</pubDate>
+      <itunes:duration>00:10:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - איזהו עשיר</title>
+      <description>הרב אבנר קוואס - איזהו עשיר</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%90%D7%99%D7%96%D7%94%D7%95%20%D7%A2%D7%A9%D7%99%D7%A8.mp3" length="32498349" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - איזהו עשיר.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:52:01 -0000</pubDate>
+      <itunes:duration>00:33:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס- מי ברא את העולם</title>
+      <description>הרב אבנר קוואס- מי ברא את העולם</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1-%20%D7%9E%D7%99%20%D7%91%D7%A8%D7%90%20%D7%90%D7%AA%20%D7%94%D7%A2%D7%95%D7%9C%D7%9D.mp3" length="22178733" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס- מי ברא את העולם.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:52:46 -0000</pubDate>
+      <itunes:duration>00:23:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - עשיה או הצלחה</title>
+      <description>הרב אבנר קוואס - עשיה או הצלחה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%A2%D7%A9%D7%99%D7%94%20%D7%90%D7%95%20%D7%94%D7%A6%D7%9C%D7%97%D7%94.mp3" length="19938477" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - עשיה או הצלחה.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:53:13 -0000</pubDate>
+      <itunes:duration>00:20:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>מהות של השפה לשון הקודש</title>
+      <description>מהות של השפה לשון הקודש</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%9E%D7%94%D7%95%D7%AA%20%D7%A9%D7%9C%20%D7%94%D7%A9%D7%A4%D7%94%20%D7%9C%D7%A9%D7%95%D7%9F%20%D7%94%D7%A7%D7%95%D7%93%D7%A9.mp3" length="14767917" type="audio/mpeg"/>
+      <guid isPermaLink="false">מהות של השפה לשון הקודש.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:53:34 -0000</pubDate>
+      <itunes:duration>00:15:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - עולם חסד יבנה</title>
+      <description>הרב אבנר קוואס - עולם חסד יבנה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%A2%D7%95%D7%9C%D7%9D%20%D7%97%D7%A1%D7%93%20%D7%99%D7%91%D7%A0%D7%94.mp3" length="10654509" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - עולם חסד יבנה.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:53:51 -0000</pubDate>
+      <itunes:duration>00:11:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>אסטורולוגיה 2</title>
+      <description>אסטורולוגיה 2</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%90%D7%A1%D7%98%D7%95%D7%A8%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94%202.mp3" length="10005933" type="audio/mpeg"/>
+      <guid isPermaLink="false">אסטורולוגיה 2.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:54:05 -0000</pubDate>
+      <itunes:duration>00:10:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - הורים מבוגרים במשבר</title>
+      <description>הרב אבנר קוואס - הורים מבוגרים במשבר</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%95%D7%A8%D7%99%D7%9D%20%D7%9E%D7%91%D7%95%D7%92%D7%A8%D7%99%D7%9D%20%D7%91%D7%9E%D7%A9%D7%91%D7%A8.mp3" length="27409965" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - הורים מבוגרים במשבר.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:54:18 -0000</pubDate>
+      <itunes:duration>00:28:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - והגדת לבנך ב'</title>
+      <description>הרב אבנר קוואס - והגדת לבנך ב'</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%95%D7%94%D7%92%D7%93%D7%AA%20%D7%9C%D7%91%D7%A0%D7%9A%20%D7%91%27.mp3" length="50930349" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - והגדת לבנך ב'.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:55:03 -0000</pubDate>
+      <itunes:duration>00:53:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - מתן תורה חלק ב'</title>
+      <description>הרב אבנר קוואס - מתן תורה חלק ב'</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%9E%D7%AA%D7%9F%20%D7%AA%D7%95%D7%A8%D7%94%20%D7%97%D7%9C%D7%A7%20%D7%91%27.mp3" length="27393069" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - מתן תורה חלק ב'.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:55:48 -0000</pubDate>
+      <itunes:duration>00:28:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - ציפיות ואכזבות בנישואין - חלק א</title>
+      <description>הרב אבנר קוואס - ציפיות ואכזבות בנישואין - חלק א</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%A6%D7%99%D7%A4%D7%99%D7%95%D7%AA%20%D7%95%D7%90%D7%9B%D7%96%D7%91%D7%95%D7%AA%20%D7%91%D7%A0%D7%99%D7%A9%D7%95%D7%90%D7%99%D7%9F%20-%20%D7%97%D7%9C%D7%A7%20%D7%90.mp3" length="22194093" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - ציפיות ואכזבות בנישואין - חלק א.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:56:19 -0000</pubDate>
+      <itunes:duration>00:23:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - אסטרולוגיה ומזל - גורל או בחירה חלק ב</title>
+      <description>הרב אבנר קוואס - אסטרולוגיה ומזל - גורל או בחירה חלק ב</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94%20%D7%95%D7%9E%D7%96%D7%9C%20-%20%D7%92%D7%95%D7%A8%D7%9C%20%D7%90%D7%95%20%D7%91%D7%97%D7%99%D7%A8%D7%94%20%D7%97%D7%9C%D7%A7%20%D7%91.mp3" length="16722093" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - אסטרולוגיה ומזל - גורל או בחירה חלק ב.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:56:44 -0000</pubDate>
+      <itunes:duration>00:17:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - פתיחת המזל חלק ב - שעת הלידה</title>
+      <description>הרב אבנר קוואס - פתיחת המזל חלק ב - שעת הלידה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%A4%D7%AA%D7%99%D7%97%D7%AA%20%D7%94%D7%9E%D7%96%D7%9C%20%D7%97%D7%9C%D7%A7%20%D7%91%20-%20%D7%A9%D7%A2%D7%AA%20%D7%94%D7%9C%D7%99%D7%93%D7%94.mp3" length="17106093" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - פתיחת המזל חלק ב - שעת הלידה.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:57:03 -0000</pubDate>
+      <itunes:duration>00:17:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב אבנר קוואס - ספירת העומר</title>
+      <description>הרב אבנר קוואס - ספירת העומר</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%A1%D7%A4%D7%99%D7%A8%D7%AA%20%D7%94%D7%A2%D7%95%D7%9E%D7%A8.mp3" length="25917741" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - ספירת העומר.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 23:57:23 -0000</pubDate>
+      <itunes:duration>00:26:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
