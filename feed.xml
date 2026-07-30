@@ -2,7 +2,8 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>הרב אבנר קוואס</title>
-    <description>שיעורי תורה - הרב אבנר קוואס - אוצר התורה</description>
+    <description>שיעורי חינוך, שלום בית וזוגיות מפי הרב אבנר קוואס שליט"א. חינוך ילדים, תקשורת בין בני זוג, כבוד הדדי ובניית בית יהודי - הרצאות מלאות - אוצר התורה.</description>
+    <itunes:summary>שיעורי חינוך, שלום בית וזוגיות מפי הרב אבנר קוואס שליט"א. חינוך ילדים, תקשורת בין בני זוג, כבוד הדדי ובניית בית יהודי - הרצאות מלאות - אוצר התורה.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/kavas</link>
     <language>he</language>
     <itunes:author>הרב אבנר קוואס</itunes:author>
