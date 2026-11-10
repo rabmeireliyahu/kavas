@@ -1121,5 +1121,14 @@
       <itunes:duration>00:04:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>הרב אבנר קוואס - המשפט שכל אמא רוצה לשמוע מהבת שלה!</title>
+      <description>הרב אבנר קוואס - המשפט שכל אמא רוצה לשמוע מהבת שלה!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-kavas-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20-%20%D7%94%D7%9E%D7%A9%D7%A4%D7%98%20%D7%A9%D7%9B%D7%9C%20%D7%90%D7%9E%D7%90%20%D7%A8%D7%95%D7%A6%D7%94%20%D7%9C%D7%A9%D7%9E%D7%95%D7%A2%20%D7%9E%D7%94%D7%91%D7%AA%20%D7%A9%D7%9C%D7%94%21.mp3" length="758061" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אבנר קוואס - המשפט שכל אמא רוצה לשמוע מהבת שלה!.mp3</guid>
+      <pubDate>Tue, 10 Nov 2026 05:14:58 -0000</pubDate>
+      <itunes:duration>00:01:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
